@@ -1,0 +1,37 @@
+[package]
+name = "trerobinson/quirky-roads"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+BasicState = "csqrl/basicstate@0.2.6"
+
+# Debugging
+TestEZ = "roblox/testez@0.4.1"
+
+# Whim Stuff
+Whim = "th3pr0fessor/whim@0.2.3"
+Rewire = "sayhisam1/rewire@0.3.0"
+
+# Profile Service
+ProfileService = "surnautica/profileservice@1.0.0"
+
+# Utils
+TableUtil = "sleitnick/table-util@1.2.0"
+Input = "sleitnick/input@2.1.1"
+Timer = "sleitnick/timer@1.1.2"
+Maid = "flamenco687/maid@3.2.2"
+Signal = "sleitnick/signal@1.2.1"
+Silo = "sleitnick/silo@0.1.1"
+Feel = "trendonrobinson/feel@1.0.5"
+Cmdr = "evaera/cmdr@1.12.0"
+
+# Interface
+Fusion = "elttob/fusion@0.2.0"
+UIParticle = "kumarion/uiparticle@0.0.1"
+
+RBXCameraShaker = "zilibobi/rbxcamerashaker@0.1.0"
+
+# Math
+Math = "ukendio/rbxmath@0.2.4"

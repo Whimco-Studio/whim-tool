@@ -1,0 +1,10 @@
+[package]
+name = "trendonrobinson/feel"
+description = "A library that is used to enhance the feel of the game"
+version = "1.0.5"
+authors = ["The_Pr0fessor"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+license = "MIT"
+
+[dependencies]
